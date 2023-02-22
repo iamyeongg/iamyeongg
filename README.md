@@ -1,6 +1,6 @@
-### Hi there 👋
+### _Hi there 👋_
 
-## _Department of Artificial Intelligence Convergence,Soongsil University_
+## _Department of Artificial Intelligence Convergence , Soongsil University_
 
 
 
